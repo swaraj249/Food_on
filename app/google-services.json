@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758175816611",
+    "project_id": "cutmbbq-1f908",
+    "storage_bucket": "cutmbbq-1f908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758175816611:android:b964e1be5e6e355c99d816",
+        "android_client_info": {
+          "package_name": "com.example.cutmbbq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsz6Sf_CI-1GC24Wrr_7kZFhGdaO0GaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
